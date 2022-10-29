@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Vuruskan</h1>
-<h3 align="center">A student backend engineer from Turkey</h3>
+<h3 align="center">A student backend artisan from Turkey</h3>
 
 - 💬 Ask me about **php,java**
 
