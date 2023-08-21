@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet Vuruskan</h1>
-<h3 align="center">A student backend artisan from Turkey</h3>
+<h3 align="center">A  Backend Artisan From Turkey</h3>
 
 - 💬 Ask me about **Php,Laravel,Java**
 
-- 📫 How to reach me **hello@ahmetvuruskan.com.tr**
+- 📫 How to reach me **ahmetfatih0702@gmail.com**
 
 - 📄 Know about my experiences [https://ahmetvuruskan.com.tr](https://ahmetvuruskan.com.tr)
 
